@@ -1,0 +1,28 @@
+.pink, #blue, #black-green {
+    margin-left: 1.2%;
+    margin-right: 1.2%;
+}
+
+
+
+.pink {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #f8a5c1;
+    font-size: 36px;
+    
+}
+
+.bigger {
+    font-size: 58px;
+}
+
+#blue {
+    color: #0000ff;
+    font-size: 72px;
+}
+
+#black-green {
+    background-color: #1ddf6e;
+    font-weight: 800;
+    font-size: 52px;
+}
